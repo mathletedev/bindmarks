@@ -1,0 +1,9 @@
+{
+	"name": "Bindmark",
+	"description": "Bind bookmarks to your keyboard!",
+	"manifest_version": 2,
+	"version": "1.0.0",
+	"browser_action": {
+		"default_popup": "popup.html"
+	}
+}
