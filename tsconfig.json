@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"outDir": "lib/js",
+		"strict": true,
+		"removeComments": true,
+		"types": ["chrome"]
+	},
+	"include": ["src"]
+}
